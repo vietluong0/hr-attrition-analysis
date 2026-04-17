@@ -5,11 +5,13 @@ Analyzed the IBM HR Analytics dataset (1,470 employees) using SQL (PostgreSQL) t
 The analysis focues on uncovering patterns across demographics, compensation, job roles, and workload to better understand employee turnover.
 Findings were then visualized in a Power BI dashboard.
 
-## Dashboard
-Includes:
-- Overall attrition KPI
-- Attrition by department, age group, income band, and job role
-- Overtime impact on attrition
+## Dashboard Visuals
+- Overall attrition rate (KPI card)
+- Attrition by department
+- Attrition by age group
+- Attrition by income band
+- Attrition by job role
+- Attrition by overtime
 ![Dashboard Screenshot](./IBM_Attrition_Dashboard.png)
 
 ## Tools Used
@@ -39,10 +41,3 @@ Includes:
 | `IBM Attrition Dashboard.pbix` | Power BI dashboard |
 | `WA_Fn-UseC_-HR-Employee-Attrition.csv` | Source dataset |
 
-## Dashboard Visuals
-- Overall attrition rate (KPI card)
-- Attrition by department
-- Attrition by age group
-- Attrition by income band
-- Attrition by job role
-- Attrition by overtime
