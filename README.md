@@ -1,8 +1,16 @@
 # HR Attrition Analysis
 
 ## Overview
-The goal of this project was to analyze the IBM HR Analytics dataset (1,470 employees) using SQL (PostgreSQL) to identify key drivers of employee attrition. 
+Analyzed the IBM HR Analytics dataset (1,470 employees) using SQL (PostgreSQL) to identify key drivers of employee attrition. 
+The analysis focues on uncovering patterns across demographics, compensation, job roles, and workload to better understand employee turnover.
 Findings were then visualized in a Power BI dashboard.
+
+## Dashboard
+Includes:
+- Overall attrition KPI
+- Attrition by department, age group, income band, and job role
+- Overtime impact on attrition
+![Dashboard Screenshot](./IBM_Attrition_Dashboard.png)
 
 ## Tools Used
 - PostgreSQL — data storage and querying
@@ -10,7 +18,7 @@ Findings were then visualized in a Power BI dashboard.
 - Dataset: [IBM HR Analytics (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## Key Findings
-- Overall attrition rate is 16.12%, above the industry average of 10–15%
+- Overall attrition rate is 16.12%, exceeding the industry average of 10–15%
 - Sales (20.63%) and HR (19.05%) departments have the highest attrition
 - Employees under 25 years of age leave at nearly 4x the rate of employees aged 35–44
 - Employees earning under $3K/month leave at 3x the rate of those earning over $10K
