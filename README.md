@@ -2,7 +2,7 @@
 
 ## Overview
 Analyzed the IBM HR Analytics dataset (1,470 employees) using SQL (PostgreSQL) to identify key drivers of employee attrition. 
-The analysis focues on uncovering patterns across demographics, compensation, job roles, and workload to better understand employee turnover.
+The analysis examines patterns across demographics, compensation, job roles, and workload to better understand employee turnover.
 Findings were then visualized in a Power BI dashboard.
 
 ## Dashboard Visuals
